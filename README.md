@@ -2,7 +2,7 @@
 
 In this today project I create a Fully functionin website that store bands albums and that sort of stuff, including management system , basic admin panel for showing every user and a button for delete a specific user and also it have authentication for users who sign up :)
 
-Things you may want to cover:
+Things you may want to see:
 
 * Ruby version
  3.1.1
