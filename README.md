@@ -10,9 +10,9 @@ Things you may want to cover:
   Any One have a thinkpad pc :)
 * Configuration
 
-  < bundle install all the dependecies >
-  < rails db:migrate > => migrating all the tables
-  < rails c > run the server on port 3000
+  bundle install all the dependecies
+  rails db:migrate => migrating all the tables
+  rails c => run the server on port 3000
   
 * Database creation
   -> users table
